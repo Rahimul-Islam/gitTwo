@@ -17,3 +17,4 @@ public interface DesgRepo extends JpaRepository<Desg, Long> {
     Page<Desg> findAllCustom(Pageable pageable, @Param("sText") String sText);
 
 }
+kmn acho?
