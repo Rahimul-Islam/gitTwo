@@ -1,0 +1,52 @@
+2021-11-04 11:29:58,425 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-1]  getAll executed from dept Api
+2021-11-04 11:29:59,844 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-2]  getOne executed
+2021-11-04 11:29:59,844 TRACE com.ibcs.hr.service.DeptService [http-nio-9090-exec-2] findById executed
+2021-11-04 11:30:02,028 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-4] getAll executed from api
+2021-11-04 11:30:26,695 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-3]  getAll executed from dept Api
+2021-11-04 11:30:27,841 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-7]  getOne executed
+2021-11-04 11:30:27,841 TRACE com.ibcs.hr.service.DeptService [http-nio-9090-exec-7] findById executed
+2021-11-04 11:30:29,466 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-5]  getAll executed from dept Api
+2021-11-04 11:32:40,431 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-8]  getAll executed from dept Api
+2021-11-04 11:32:58,084 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-9]  getAll executed from dept Api
+2021-11-04 11:33:09,225 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-10]  getAll executed from dept Api
+2021-11-04 11:33:37,181 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-1]  getAll executed from dept Api
+2021-11-04 11:41:27,257 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-4] getOne executed
+2021-11-04 11:41:27,258 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-4] findById executed
+2021-11-04 11:56:18,263 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-7] getAll executed from api
+2021-11-04 11:56:32,827 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-5]  getAll executed from dept Api
+2021-11-04 11:59:27,619 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-8]  getAll executed from dept Api
+2021-11-04 12:00:56,860 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-10]  getAll executed from dept Api
+2021-11-04 12:02:00,587 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-2] getAll executed
+2021-11-04 12:02:00,598 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-2]  getAll executed
+2021-11-04 12:05:09,272 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-3] getAll executed
+2021-11-04 12:05:09,272 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-3]  getAll executed
+2021-11-04 12:05:25,371 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-7]  getAll executed from dept Api
+2021-11-04 12:05:27,356 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-5] getAll executed
+2021-11-04 12:05:27,356 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-5]  getAll executed
+2021-11-04 12:07:18,284 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-8]  createDept executed
+2021-11-04 12:07:19,167 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-9] getAll executed
+2021-11-04 12:07:19,167 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-9]  getAll executed
+2021-11-04 12:07:26,665 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-10] getAll executed
+2021-11-04 12:07:26,666 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-10]  getAll executed
+2021-11-04 12:11:44,199 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-2] getAll executed
+2021-11-04 12:11:44,385 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-4] getAll executed
+2021-11-04 12:11:44,386 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-4]  getAll executed
+2021-11-04 12:20:49,431 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-7]  getAll executed from dept Api
+2021-11-04 12:20:51,309 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-5] getAll executed
+2021-11-04 12:20:51,309 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-5]  getAll executed
+2021-11-04 12:20:55,392 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-6]  getAll executed from dept Api
+2021-11-04 12:20:56,886 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-8]  getOne executed
+2021-11-04 12:20:56,886 TRACE com.ibcs.hr.service.DeptService [http-nio-9090-exec-8] findById executed
+2021-11-04 12:20:58,282 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-9] getAll executed
+2021-11-04 12:20:58,283 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-9]  getAll executed
+2021-11-04 12:21:00,590 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-10]  getOne executed
+2021-11-04 12:21:00,591 TRACE com.ibcs.hr.service.DeptService [http-nio-9090-exec-10] findById executed
+2021-11-04 12:21:03,094 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-1] getAll executed
+2021-11-04 12:21:03,094 TRACE com.ibcs.hr.service.DesgService [http-nio-9090-exec-1]  getAll executed
+2021-11-04 12:23:11,744 TRACE com.ibcs.hr.api.DeptApi [http-nio-9090-exec-4]  getAll executed from dept Api
+2021-11-04 12:23:16,174 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-3] getAll executed from api
+2021-11-04 12:23:23,187 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-7] getAll executed from api
+2021-11-04 12:24:03,515 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-5] getOne executed from api
+2021-11-04 12:24:03,515 TRACE com.ibcs.hr.service.EmpService [http-nio-9090-exec-5] findById executed
+2021-11-04 12:24:07,775 TRACE com.ibcs.hr.api.EmpApi [http-nio-9090-exec-6] updateEmp executed from api
+2021-11-04 12:24:07,776 TRACE com.ibcs.hr.service.EmpService [http-nio-9090-exec-6]  updated executed from service
